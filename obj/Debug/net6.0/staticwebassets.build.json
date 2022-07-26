@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ndqkvjcWBpx0iQt9nPDGPSzoJFPK8c5wyyS56Kcd6E=",
+  "Source": "ExternalLoginsApp",
+  "BasePath": "_content/ExternalLoginsApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
